@@ -1,0 +1,41 @@
+header
+{
+    background-color: gray;
+    height: 100px;
+    width: auto;
+    margin-top: -25px;
+    margin-left: -10px;
+    margin-right: -9px;
+}
+
+h1
+{
+   color: black;
+   padding-top: 25px;
+}
+
+nav
+{
+    background-color: black;
+    height: 25spx;
+    width: auto;
+    margin-top: -25px;
+    margin-left: -10px;
+    margin-right: -9px;
+}
+
+table
+{
+    margin-top: -15px;
+}
+
+footer
+{
+    background-color: black;
+    height: 100px;
+    width: auto;
+    margin-top: -25px;
+    margin-left: -10px;
+    margin-right: -9px;
+    margin-top: 85px;
+}
